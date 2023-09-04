@@ -1,0 +1,4 @@
+Enter the Number;371
+371 is an Armstrong Number
+Enter the Number:564
+564 is not an Armstrong Number
